@@ -1,5 +1,3 @@
-# test_app
-
 A Flutter project for displaying Pokémon data using BLoC architecture.
 
 ## Getting Started
