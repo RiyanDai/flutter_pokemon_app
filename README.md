@@ -1,11 +1,6 @@
 A Flutter project for displaying Pokémon data using BLoC architecture.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application. It utilizes the BLoC pattern for state management and fetches Pokémon data from a remote source.
-
-### Prerequisites
-
 Before you begin, ensure you have met the following requirements:
 
 - **Flutter**: You have Flutter installed on your machine. You can follow the installation guide [here](https://flutter.dev/docs/get-started/install).
