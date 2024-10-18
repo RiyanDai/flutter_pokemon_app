@@ -1,16 +1,22 @@
 # test_app
 
-A new Flutter project.
+A Flutter project for displaying Pokémon data using BLoC architecture.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. It utilizes the BLoC pattern for state management and fetches Pokémon data from a remote source.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have met the following requirements:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: You have Flutter installed on your machine. You can follow the installation guide [here](https://flutter.dev/docs/get-started/install).
+- **Dart SDK**: Dart comes bundled with Flutter, but ensure you have the latest version.
+- **An IDE**: Use an IDE like Visual Studio Code or Android Studio for development.
+
+### Clone the Repository
+
+To get a local copy of the project, run the following command in your terminal:
+
+```bash
+git clone https://github.com/RiyanDai/flutter_pokemon_app.git
